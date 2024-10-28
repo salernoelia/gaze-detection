@@ -1,2 +1,4 @@
-# gaze-direction-heatmap
- 
+
+![demo.gif](demo.gif)
+
+Transforming cursor to gaze direction.
